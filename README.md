@@ -17,5 +17,3 @@ Este projeto tem como objetivo explorar e aplicar os conceitos de posicionamento
 - HTML5
 - CSS3
 
-### Estrutura do Projeto
-
