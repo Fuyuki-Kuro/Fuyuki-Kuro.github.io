@@ -1,21 +1,63 @@
-- [BickCraft](https://github.com/Fuyuki-Kuro/Fuyuki-Kuro.github.io/tree/main/Bikcraft)
+# Meu Portfólio de Projetos
 
-# Curso de HTML CSS e JS
+Bem-vindo ao meu portfólio de projetos! Aqui, você encontrará uma coleção dos meus trabalhos mais significativos em Desenvolvimento de Sites e Web Aplicações. Sinta-se à vontade para explorar e entrar em contato se tiver alguma dúvida.
 
-## Site 1 - Projeto: Posicionamento HTML e CSS
+---
 
-### Descrição
+## Sumário
 
-Este projeto tem como objetivo explorar e aplicar os conceitos de posicionamento em HTML e CSS. O foco é entender as diferentes técnicas de layout e como elas podem ser utilizadas para criar páginas web responsivas e visualmente agradáveis.
+- [Sobre Mim](#sobre-mim)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Projetos](#projetos)
+  - [Projeto 1](#projeto-1)
+  - [Projeto 2](#projeto-2)
+  - [Projeto 3](#projeto-3)
+- [Como Executar os Projetos](#como-executar-os-projetos)
+- [Contato](#contato)
 
-### Objetivos
+---
 
-- Aprender sobre os diferentes tipos de posicionamento em CSS: `static`, `relative`, `absolute`, `fixed` e `sticky`.
-- Aplicar esses conceitos na construção de uma página web.
-- Criar um layout responsivo que se adapte a diferentes tamanhos de tela.
+## Sobre Mim
 
-### Tecnologias Utilizadas
+Meu nome é Leonardo, sou um Programador Front-end e Analista de Dados com 24 anos. Tenho paixão por programação e design, e estou sempre buscando crescimento profissional.
 
-- HTML5
-- CSS3
+---
 
+## Tecnologias Utilizadas
+
+- **Linguagens de Programação:** HTML, CSS, JavaScript, Python
+- **Frameworks:** Django, Bootstrap
+- **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+## Projetos
+
+### Projeto 1: Nome do Projeto
+
+Descrição breve do projeto. O que ele faz? Quais problemas ele resolve?
+
+- **Tecnologias Utilizadas:** [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- **Link do Repositório:** [GitHub - Nome do Projeto](https://github.com/usuario/nome-do-projeto)
+
+### Projeto 2: Nome do Projeto
+
+Descrição breve do projeto. O que ele faz? Quais problemas ele resolve?
+
+- **Tecnologias Utilizadas:** [Django](https://www.djangoproject.com/), [Bootstrap](https://getbootstrap.com/)
+- **Link do Repositório:** [GitHub - Nome do Projeto](https://github.com/usuario/nome-do-projeto)
+
+### Projeto 3: Nome do Projeto
+
+Descrição breve do projeto. O que ele faz? Quais problemas ele resolve?
+
+- **Tecnologias Utilizadas:** [Python](https://www.python.org/), [APIs](https://www.restapitutorial.com/)
+- **Link do Repositório:** [GitHub - Nome do Projeto](https://github.com/usuario/nome-do-projeto)
+
+---
+
+## Como Executar os Projetos
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/nome-do-projeto.git
