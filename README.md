@@ -15,7 +15,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui, você encontrará uma coleção d
 - [Como Executar os Projetos](#como-executar-os-projetos)
 - [Contato](#contato)
 
-- [Bikcraft](https://github.com/Fuyuki-Kuro/Fuyuki-Kuro.github.io/tree/main/Bikcraft)
+- [Bikcraft](/Bikcraft/index.html)
 
 ---
 
