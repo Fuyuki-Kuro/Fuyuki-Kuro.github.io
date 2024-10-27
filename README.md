@@ -15,6 +15,8 @@ Bem-vindo ao meu portfólio de projetos! Aqui, você encontrará uma coleção d
 - [Como Executar os Projetos](#como-executar-os-projetos)
 - [Contato](#contato)
 
+- [Bikcraft](https://github.com/Fuyuki-Kuro/Fuyuki-Kuro.github.io/tree/main/Bikcraft)
+
 ---
 
 ## Sobre Mim
@@ -61,3 +63,4 @@ Descrição breve do projeto. O que ele faz? Quais problemas ele resolve?
 1. Clone o repositório:
    ```bash
    git clone https://github.com/usuario/nome-do-projeto.git
+   ```
