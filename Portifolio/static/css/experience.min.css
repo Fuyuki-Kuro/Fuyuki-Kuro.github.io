@@ -6,23 +6,19 @@
   grid-template-columns: 1fr 2fr;
   gap: 100px;
 }
-
 .experiencia .subtitle {
   color: #e0e0e0;
 }
-
 .experiencia-text {
-  font-size: 1.5rem;
+  font-size: 1.5recleanzm;
   line-height: 1.33;
   margin-bottom: 60px;
   max-width: 40ch;
   color: #525252;
 }
-
 .experiencia-text strong {
   color: #141414;
 }
-
 .exp {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -33,7 +29,6 @@
   border-radius: 4px;
   position: relative;
 }
-
 .exp::before {
   content: "";
   display: block;
@@ -44,7 +39,6 @@
   top: 20px;
   left: -4px;
 }
-
 .exp-ano {
   position: absolute;
   left: -100px;
@@ -54,26 +48,22 @@
   color: #525252;
   font: 0.875rem;
 }
-
 .exp-title {
   font-size: 1.125rem;
   line-height: 1.1;
-  font-weight: bold;
+  font-weight: 700;
 }
-
 .exp-text {
   font-size: 0.875rem;
   color: #525252;
   line-height: 1.4;
 }
-
 .exp-habilites {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
   align-content: start;
 }
-
 .exp-habilites li {
   font-size: 0.875rem;
   line-height: 1.4;
@@ -81,7 +71,6 @@
   background: #fff;
   padding: 5px 10px;
 }
-
 @media (max-width: 800px) {
   .experiencia {
     grid-template-columns: 1fr;
@@ -91,23 +80,19 @@
     font-size: 1.5rem;
     color: #141414;
   }
-
   .exp-text {
     font-size: 1.25rem;
   }
-
   .exp-ano {
     position: initial;
     order: 1;
     width: initial;
     text-align: left;
   }
-
   .exp-ano::before {
     content: "Ano: ";
   }
 }
-
 @media (max-width: 400px) {
   .exp {
     grid-template-columns: 1fr;
