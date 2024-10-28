@@ -1,0 +1,23 @@
+:root {
+  --background: #f7f7f7;
+  --background-secondary: #fff;
+  --primary: #e21;
+  --secondary: #900;
+  --text: #000;
+  --text-secondary: #6c6c6c;
+  --color-text-subtitle: rgba(0, 0, 0, 0.2);
+  --onda: url("../images/onda-clara.svg");
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #111;
+    --background-secondary: #000;
+    --primary: #e21;
+    --secondary: #900;
+    --text: #fff;
+    --text-secondary: #6c6c6c;
+    --color-text-subtitle: rgba(255, 255, 255, 0.2);
+    --onda: url("../images/onda-escura.svg");
+  }
+}
